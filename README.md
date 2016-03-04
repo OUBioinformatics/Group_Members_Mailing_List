@@ -35,3 +35,4 @@ Name | email | department/location |
 |Pingault Lise M.| lise.pingault@ou.edu| |
 |Nourbakhsh Mehrnoush| mrey@ou.edu| |
 |Escalas Arthur| arthur.escalas@gmail.com| |
+|Makama Zakari| zakari.makama-1@ou.edu| |
