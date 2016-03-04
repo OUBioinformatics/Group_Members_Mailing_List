@@ -1,7 +1,10 @@
 # Group_Members_Mailing_List
 This is the list of all the members of OUBioinformatics
 
-"Guruacharya Anuj" anuj2054@gmail.com
+Name | email |
+ :--- | :---------- |
+
+"Guruacharya Anuj" | anuj2054@gmail.com |
 "Cox Gary W. II" garywcox@ou.edu
 "Herath Anjumala" anjumala@ou.edu
 "Bard David E. (HSC)" David-Bard@ouhsc.edu
