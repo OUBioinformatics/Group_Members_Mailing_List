@@ -19,7 +19,7 @@ Name | email | department/location |
 |Harriman Brian H.| brianhharriman@ou.edu| |
 |Liang Renxing| Renxing.Liang-1@ou.edu| |
 |Stevenson Bradley S.| bradley.stevenson@ou.edu| |
-|vasandifer@gmail.com| vasandifer@gmail.com| |
+|Vince Sandifer| vasandifer@gmail.com| |
 |sylvie.le.borgne@gmail.com| sylvie.le.borgne@gmail.com| |
 |Terada Akiko| akikoogawa64@gmail.com| |
 |Cooper Joshua T.| jtcooper@ou.edu| |
