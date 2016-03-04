@@ -19,10 +19,10 @@ Name | email | department/location |
 |Liang Renxing| Renxing.Liang-1@ou.edu| |
 |Stevenson Bradley S.| bradley.stevenson@ou.edu| |
 |Vince Sandifer| vasandifer@gmail.com| |
-|sylvie.le.borgne@gmail.com| sylvie.le.borgne@gmail.com| |
-|Terada Akiko| akikoogawa64@gmail.com| |
+|Le Borgne Sylvie| sylvie.le.borgne@gmail.com| |
+|Ogawa Akiko| akikoogawa64@gmail.com| |
 |Cooper Joshua T.| jtcooper@ou.edu| |
-|michaelandr10@gmail.com| michaelandr10@gmail.com| |
+|Landr Michael| michaelandr10@gmail.com| |
 |Bartley Laura E.| lbartley@ou.edu| |
 |Kempher Megan L.| megan.kempher@gmail.com| |
 |Beasley William H.| whb4@ou.edu| |
