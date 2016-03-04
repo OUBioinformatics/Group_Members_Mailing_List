@@ -1,15 +1,10 @@
 # Group_Members_Mailing_List
 This is the list of all the members of OUBioinformatics
 
-Name | email |
- :--- | :---------- |
-| "Guruacharya Anuj" | anuj2054@gmail.com |
+Name | email | department/location |
+ :--- | :---------- |  :-----------|
+| Guruacharya Anuj | anuj2054@gmail.com | |
 
-
-Name | Description / Annotation Notes |
- :--- | :---------- |
-| [subunit A](fasta_files/PhenylphosphateSynthaseSubunitA.md) | PEP-utilizing enzyme, mobile domain; pfam00391 |
-| [subunit B](fasta_files/PhenylphosphateSynthaseSubunitB.md) | Pyruvate phosphate dikinase, PEP/pyruvate binding domain; pfam01326 |
 
 
 "Cox Gary W. II" garywcox@ou.edu
