@@ -20,7 +20,7 @@ Name | email | department/location |
 |Stevenson Bradley S.| bradley.stevenson@ou.edu| |
 |Vince Sandifer| vasandifer@gmail.com| |
 |Le Borgne Sylvie| sylvie.le.borgne@gmail.com| |
-|Ogawa Akiko| akikoogawa64@gmail.com| |
+|Ogawa Akiko| akikoogawa64@gmail.com| National Institute of Technology, Suzuka Collete, Japan |
 |Cooper Joshua T.| jtcooper@ou.edu| |
 |Landr Michael| michaelandr10@gmail.com| |
 |Bartley Laura E.| lbartley@ou.edu| |
