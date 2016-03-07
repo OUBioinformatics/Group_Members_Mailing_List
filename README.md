@@ -25,7 +25,7 @@ Name | email | department/location |
 |Landr Michael| michaelandr10@gmail.com| |
 |Bartley Laura E.| lbartley@ou.edu| |
 |Kempher Megan L.| megan.kempher@gmail.com| |
-|Beasley William H.| whb4@ou.edu| |
+|Beasley William H.| wibeasley@hotmail.com| OUHSC Pediatrics, [BBMC](http://ouhsc.edu/bbmc/) |
 |Holt Ben F. III| benholt@ou.edu| |
 |Libault Marc| libaultm@ou.edu| |
 |Zhao Kangmei| kmzhao@ou.edu| |
