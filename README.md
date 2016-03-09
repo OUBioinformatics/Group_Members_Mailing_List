@@ -3,7 +3,7 @@ This is the list of all the members of OUBioinformatics
 
 Name | email | department/location |
  :--- | :---------- |  :-----------|
-| Guruacharya Anuj | anuj2054@gmail.com | |
+|Guruacharya Anuj | anuj2054@gmail.com | |
 |Cox Gary W. II| garywcox@ou.edu | |
 |Herath Anjumala| anjumala@ou.edu| |
 |Duncan Kathleen E.| Kathleen.E.Duncan-1@ou.edu| |
@@ -36,3 +36,4 @@ Name | email | department/location |
 |Nourbakhsh Mehrnoush| mrey@ou.edu| |
 |Escalas Arthur| arthur.escalas@gmail.com| |
 |Makama Zakari| zakari.makama-1@ou.edu| |
+|Oliboni de Azambuja Aline| alineoliboni@gmail.com| |
