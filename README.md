@@ -14,7 +14,7 @@ Name | email | department/location |
 |Oldham Athenia L.| athenia.oldham@gmail.com| |
 |Stamps Blake W.| Blake.W.Stamps-1@ou.edu| |
 |Marks Christopher R.| cmarks@ou.edu| |
-|Azambuja Aline O.| alineoliboni@gmail.com| |
+|Oliboni de Azambuja Aline| alineoliboni@gmail.com| |
 |Harriman Brian H.| brianhharriman@ou.edu| |
 |Liang Renxing| Renxing.Liang-1@ou.edu| |
 |Stevenson Bradley S.| bradley.stevenson@ou.edu| |
@@ -36,4 +36,3 @@ Name | email | department/location |
 |Nourbakhsh Mehrnoush| mrey@ou.edu| |
 |Escalas Arthur| arthur.escalas@gmail.com| |
 |Makama Zakari| zakari.makama-1@ou.edu| |
-|Oliboni de Azambuja Aline| alineoliboni@gmail.com| |
